@@ -34,7 +34,7 @@ about:
 
 Hello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.
 
-My research focuses on contentious politics, political attitudes, and social stratification. In particular, I study how protest and social movements shape political attitudes and institutional change through processes of education and socialization. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies and survey experiments.
+My research focuses on contentious politics, political attitudes, and social stratification. In particular, I study how protest and social movements shapes attitudes towards institutional change through processes of education and socialization. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies and survey experiments.
 
 I am currently a research assistant for Fondecyt project No. 1250518 [“Market Justice and Deservingness of Social Welfare”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/), and for the [Norwegian Students' and Academics' International Assistance Fund (SAIH)](https://www.saih.no/en/who-we-are). Previously, I worked as a research assistant for the [Social Cohesion Observatory of the Center for the Study of Conflict and Social Cohesion (COES)](https://ocs-coes.com/) and the [Laboratory of Social Open Science](lisacoes.cl), both at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
 
