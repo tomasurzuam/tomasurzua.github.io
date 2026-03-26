@@ -27,6 +27,10 @@ about:
       text: ORCID
       href: https://orcid.org/0009-0002-4299-2725
       target: _blank
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=m9aAaWUAAAAJ&hl=es
+      target: _blank
 ---
 
 
