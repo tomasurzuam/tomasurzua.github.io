@@ -1,11 +1,9 @@
 ---
 title: "René Canales"
 subtitle: |
-  Research assistant \
-  [Fondecyt project No. 1250518 "Market Justice and Deservingness of Social Welfare"](https://jus-mer.github.io/web-proyecto/docs//) \
-  [ Norwegian Students' and Academics' International Assistance Fund  (SAIH)](https://www.saih.no/en/who-we-are) \
-  University of Chile \
-description-meta: "René Canales is a Sociologist from the Pontifical Catholic University of Chile and holds an M.A. in Sociology from the same institution. He works as a research assistant on the Fondecyt project Market Justice and Deservingness in Social Welfare and on the Norwegian Students' and Academics' International Assistance Fund (SAIH). His research focuses on social stratification, social mobility, wealth, and public attitudes toward the marketization of social services, using quantitative methods that combine observational data, causal inference, and survey experiments."
+  PhD Fellow \
+  [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty) \
+description-meta: "René Canales is a Sociologist from the Pontifical Catholic University of Chile and holds an M.A. in Sociology from the same institution. Currently, he is a PhD fellow at the Bremen International Graduate School of Social Sciences (BIGSSS). His research focuses on contentious politics, social stratification, political attitudes, and institutional change, using quantitative methods that combine observational data, causal inference, computational methods and survey experiments."
 image: "files/images/rene_canales_profile.JPG"
 page-navigation: false
 toc: false
@@ -37,11 +35,11 @@ about:
 
 Hello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.
 
-My research focuses on contentious politics, political attitudes, and social stratification. In particular, I study how protest and social movements shapes attitudes towards institutional change through processes of education and socialization. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies and survey experiments.
+Currently, I am a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), at the University of Bremen, Germany. 
 
-I currently work as a research assistant for the Fondecyt project No. 1250518 [“Market Justice and Deservingness of Social Welfare”](https://jus-mer.github.io/web-proyecto/docs/), and for the [Norwegian Students' and Academics' International Assistance Fund (SAIH)](https://www.saih.no/en/who-we-are). Previously, I worked as a research assistant for the [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/) and the [Laboratory of Social Open Science](lisacoes.cl), both at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
+My research focuses on the relationship between social movements and political attitudes, with a particular interest in how protest and contentious politics shape social cohesion, public opinion and influence institutional change. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies, survey experiments and computational methods.
 
-Recently, I was admitted as a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), supported by the [DAAD Graduate School Scholarship Programme (GSSP)](https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/gssp/), starting in September 2026.
+Previously, I worked as a research assistant for the [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/) and the [Laboratory of Social Open Science](lisacoes.cl), both at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
 
 I was born and raised in [Santiago de Chile](https://youtu.be/E4bxx1nRjCg?si=8q8ZuL2jKgHspUvp). Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals.
 
