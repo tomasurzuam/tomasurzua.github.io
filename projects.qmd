@@ -24,7 +24,7 @@ toc: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-I am a research assistant for the Fondecyt project [“Market Justice and Deservingness of Social Welfare”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/) which studies attitudes toward the market allocation of social welfare benefits in Chile and their links to deservingness and merit criteria. The project combines comparative, longitudinal, survey, experimental, and political discourse analyses to examine how preferences for market justice in areas such as pensions, health, and education are shaped by institutional contexts and cultural beliefs.
+I served as a research assistant for the Fondecyt project [“Market Justice and Deservingness of Social Welfare”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/) which studies attitudes toward the market allocation of social welfare benefits in Chile and their links to deservingness and merit criteria. The project combines comparative, longitudinal, survey, experimental, and political discourse analyses to examine how preferences for market justice in areas such as pensions, health, and education are shaped by institutional contexts and cultural beliefs.
 
 
 :::
