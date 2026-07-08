@@ -1,10 +1,10 @@
 ---
-title: "René Canales"
+title: "Tomás Urzúa"
 subtitle: |
-  PhD Fellow \
-  [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty) \
-description-meta: "René Canales is a Sociologist from the Pontifical Catholic University of Chile and holds an M.A. in Sociology from the same institution. Currently, he is a PhD fellow at the Bremen International Graduate School of Social Sciences (BIGSSS). His research focuses on contentious politics, social stratification, political attitudes, and institutional change, using quantitative methods that combine observational data, causal inference, computational methods and survey experiments."
-image: "files/images/rene_canales_profile.JPG"
+  Social Sciences Master's Student \
+  [University of Chile](https://uchile.cl/) \
+description-meta: "Tomás Urzúa is..."
+image: "files/images/tomas.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -16,36 +16,30 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:rene.canales@uc.cl
+      href: mailto:tomas.urzua@ug.uchile.cl
     - icon: github
       text: Github
-      href: https://github.com/renejcanales
+      href: https://github.com/tomasurzuam
     - icon: orcid
       text: ORCID
-      href: https://orcid.org/0009-0002-4299-2725
-      target: _blank
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=m9aAaWUAAAAJ&hl=es
+      href: https://orcid.org/0009-0008-3167-6819
       target: _blank
 ---
 
 
 ::: {#hero-heading .justify}
 
-Hello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.
+Hello, I’m Tomás Urzúa. I am a sociologist from University of Chile and master student from the same institution.
 
-Currently, I am a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), at the University of Bremen, Germany. 
+My interests fall primarily into three areas of research: people’s redistributive preferences, the cultural effects of the privatization of services, and inequalities in education. I research these topics using a quantitative and open-science approach, employing tools such as R, Git/GitHub, and Visual Studio Code.
 
-My research focuses on the relationship between social movements and political attitudes, with a particular interest in how protest and contentious politics shape social cohesion, public opinion and influence institutional change. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies, survey experiments and computational methods.
+Currently I work as a research assistant at the [Market Justice and Deservingness of Social Welfare Project](https://jus-mer.com/), a project funded by the [National Agency for Research and Development (ANID)](https://www.anid.cl/) led by [Dr. Juan Carlos Castillo](https://jc-castillo.com/).
 
-Previously, I worked as a research assistant for the [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/) and the [Laboratory of Social Open Science](lisacoes.cl), both at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
+Previously, I worked as a research assistant for the [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/) at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In addition, I have contributed to various research projects focused on teaching research tools, as well as to the writing of academic articles for publications such as [EDUMER (Moral Foundations of the Education Market and Their Implications for Civic Education in Chile)](https://jc-castillo.com/proyectos/posts/fondecyt-edumer/), [NUDOS (Millennium Center for Digital Inequalities and Opportunities)](https://www.nudos.cl/), and [LISA (Open Social Research Laboratory)](https://lisacoes.com/).
 
-I was born and raised in [Santiago de Chile](https://youtu.be/E4bxx1nRjCg?si=8q8ZuL2jKgHspUvp). Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals.
+
 
 :::
 
-## Recent Papers
 
-Check my latest [papers](publications.qmd#category=papers) and [projects](publications.qmd#category=book-chapters) in the [Research](publications.qmd) section.
 

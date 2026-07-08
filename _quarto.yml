@@ -3,56 +3,54 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "René Canales – Sociologist and M.A. in Sociology"
-author-meta: "René Canales"
+description-meta: "Tomás Urzúa – Sociologist - Social Sciences Master's Student"
+author-meta: "Tomás Urzúa"
 
 website:
-  title: "René Canales"
-  image: "/files/rene_canales_profile.JPG"
-  description: "René Canales – Sociologist and M.A. in Sociology"
- 
+  title: "Tomás Urzúa's Website"
+  image: "/files/tomas.jpg"
+  description: "Tomás Urzúa – Social Sciences Master's Student"
+
   navbar:
     background: dark
 
     left:
-#      - text: Home
-#        href: index.qmd
-#      - text: About
-#        menu:
-#          - text: News
-#            href: posts.qmd#category=news
-#          - text: Events
-#            href: posts.qmd#category=event
-#          - text: Now
-#            href: now.qmd       
-#          - text: Contact
-#            href: contact.qmd    
-      - text: Research
-        menu:
+    #  - text: Home
+    #    href: index.qmd
+    #  - text: About
+    #    menu:
+    #      - text: News
+    #        href: posts.qmd#category=news
+    #      - text: Events
+    #        href: posts.qmd#category=event   
+     - text: Research
+       menu:
           - text: Projects
             href: projects.qmd
           - text: Publications
             href: publications.qmd
           - text: Presentations
             href: presentations.qmd  
-            target: _blank                                  
+            target: _blank 
+     - text: Teaching
+       href: teaching.qmd
 
     right: 
       - text: "**CV**"
         href: files/cv-1.pdf
         target: _blank 
       - icon: github
-        href: https://github.com/renejcanales
+        href: https://github.com/tomasurzuam
         target: _blank
   
   page-navigation: true
   
   page-footer: 
-    center: "[René Canales](https://renejcanales.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
-    # left: "[René Canales](https://renejcanales.github.io); <script>document.write(new Date().getFullYear())</script>" 
+    center: "[Tomás Urzúa](https://renejcanales.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    # left: "[Tomás Urzúa](https://renejcanales.github.io); <script>document.write(new Date().getFullYear())</script>" 
     right:  
        - icon: github
-         href: https://github.com/renejcanales
+         href: https://github.com/tomasurzuam
          target: _blank
     #   - text: "{{< fa brands bluesky >}}" 
     #     href: https://bsky.app/profile/hegang.bsky.social

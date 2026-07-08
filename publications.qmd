@@ -19,27 +19,23 @@ css: /custom.css
 
 Castillo, J. C., Canales Sellés, R., Laffert, A., & Urzúa, T. (2026). Justification trajectories for pension inequality in Chile (2016–2023): the role of social class and beliefs in meritocracy. [Frontiers in Sociology, 11, 1771856](https://doi.org/10.3389/fsoc.2026.1771856). 
 
+Castillo, J. C., Miranda, D., Correa, T., Tobar, N., Bachmann, I., Urzúa, T. (2026). Do girls underestimate their digital skills? Gender differences in digital self-efficacy in the Chilean school context. Perspectiva Educacional, 65(3). **Currently being published**.
 
-Karle, C., Sánchez-Barría, F., & Canales Sellés, R. (2026). When Protest Becomes Institutionalized: Evidence from the Chilean Student Movement Under Military Rule, 1982–1989. [The Sociological Quarterly, 1–27](https://doi.org/10.1080/00380253.2026.2643335)
 
 ## In Preparation
 
-**Stability and comparability of meritocratic beliefs in school-age students: A measurement invariance approach across time and cohorts**. Andreas Laffert, Juan Carlos Castillo, René Canales, Tomás Urzúa & Kevin Carrasco. *Submited*. [Preprint](https://doi.org/10.31235/osf.io/gvbqw_v1)
+**Stability and comparability of meritocratic beliefs in school-age students: A measurement invariance approach across time and cohorts**. Andreas Laffert, Juan Carlos Castillo, René Canales, Tomás Urzúa & Kevin Carrasco. **Submited**. [Preprint](https://doi.org/10.31235/osf.io/gvbqw_v1)
 
-**Attitudes towards political violence in the chilean contentious cycle: A longitudinal analysis from education and participation**. René Canales & Daniel Miranda. *In progress*.
+Measuring Digital Self-Efficacy in International Large-Scale Assessments: An Iternational Comparison Between ICILS and PISA. Daniel Miranda, Ismael Aguayo, Nicolás Tobar, Tomás Urzúa, Juan Carlos Castillo. **Subtimed**.
 
-**Youth, Authoritarian Heritage and Democracy: A Multilevel Analysis of the disposition to Institutional Participation in Europe**. René Canales, Ricardo León & Daniel Miranda. *In progress*.
+Two Decades of Changes in Social Cohesion in Latin America (2004–2023). Juan Carlos Castillo, Julio Iturra, Gabriel Cortés, Tomás Urzúa. **In progress**. 
+
 
 ## Research Reports and Data Visualizations
 
-Urzúa, T., Canales, R., Laffert, A. & Castillo, J. C. (2025). [Documento Metodológico VisELSOC (Release)](https://ocscoes.github.io/propuesta-medicion-elsoc/output/book-cohesion-elsoc/docs/). ocs-coes. Zenodo. https://doi.org/10.5281/zenodo.17418461
-
 Urzúa, T., Iturra, J., Canales, R., Laffert, A. & Castillo, J.C. (2025). [Visualizador Longitudinal de Cohesión Social en Chile (Release)](https://ocs-coes.shinyapps.io/ocs-viselsoc/). Zenodo. https://doi.org/10.5281/zenodo.17408346
 
-## Press Articles
+Urzúa, T., Canales, R., Laffert, A. & Castillo, J. C. (2025). [Documento Metodológico VisELSOC (Release)](https://ocscoes.github.io/propuesta-medicion-elsoc/output/book-cohesion-elsoc/docs/). Zenodo. https://doi.org/10.5281/zenodo.17418461
 
-Castillo, J. C., & Canales, R. (2026). *Restricción de beneficios sociales por incivilidades: una cuestión de merecimiento*. [El Mostrador](https://www.elmostrador.cl/noticias/opinion/columnas/2026/06/11/restriccion-de-beneficios-sociales-por-incivilidades-una-cuestion-de-merecimiento/)
-
-Canales, R., & Castillo, J. C. (2025). *La seguridad nace del vínculo social*. [Tercera Dosis](https://terceradosis.cl/2025/10/10/la-seguridad-nace-del-vinculo-social/)
-
+Urzúa, T., Castillo, J. C., Miranda, D. (2026). [Estudio de Notas de la Facultad de Ciencias Sociales de la Universidad de Chile](https://data-soc.github.io/estudio-notas/docs/).
 :::

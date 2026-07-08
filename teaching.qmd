@@ -7,36 +7,52 @@ title-block-banner: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-## Correlational statistics
+## Open Social Science (2026 version)
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-[![](https://2024--correlacional.netlify.app/files/logo-correlacional.png)](https://2024--correlacional.netlify.app/)
+[![](https://cienciasocialabierta.netlify.app//files/logo.png)](https://cienciasocialabierta.netlify.app/)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-I served as co-instructor for the undergraduate course Correlational Statistics in the Sociology program at the University of Chile, together with Juan Carlos Castillo. My role included preparing lectures and teaching materials, leading lectures and R-based practical sessions, designing and grading evaluations, and coordinating teaching activities and student support during the course.
+I served as co-instructor for the undergraduate and master's course in Correlational Statistics in the Sociology program at the University of Chile, together with Juan Carlos Castillo. My role included preparing lectures and teaching materials, leading lectures and practical sessions, designing and grading evaluations, and coordinating teaching activities and student support during the course.
 
 :::
 
 :::
 
-
-## Descriptive statistics
+## Correlational statistics (2025 version)
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-[![](https://descriptiva-facso.netlify.app/files/img/logo.png)](https://descriptiva-facso.netlify.app/)
+[![](https://2024--correlacional.netlify.app/files/logo-correlacional.png)](https://correlacional.netlify.app/)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-I served as co-instructor for the undergraduate course Descriptive Statistics in the Sociology program at the University of Chile, together with Rodrigo Asún. My role included preparing lectures and teaching materials, leading lectures and R-based practical sessions, designing and grading evaluations, and coordinating teaching activities and student support during the course.
+I served as assistant for the undergraduate course Descriptive Statistics in the Sociology program at the University of Chile, together with Juan Carlos Castillo. My role included assisting students during hands-on sessions with R and RStudio, reviewing evaluations, and supporting the coordination of teaching activities during the course.
+
+:::
+
+:::
+
+## Descriptive statistics (2025 version)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+[![](https://descriptiva-facso.netlify.app/files/img/logo.png)](https://version2025--estadistica-descriptiva-uch.netlify.app/)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+I served as assistant for the undergraduate course Descriptive Statistics in the Sociology program at the University of Chile, together with Rodrigo Asún. My role included assisting students during hands-on sessions with R and RStudio, reviewing evaluations, and supporting the coordination of teaching activities during the course.
 
 :::
 

@@ -5,16 +5,16 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>René Canales</title>
+<title>Tomás Urzúa&#39;s Website</title>
 <link>https://renejcanales.github.io/posts.html</link>
 <atom:link href="https://renejcanales.github.io/posts.xml" rel="self" type="application/rss+xml"/>
-<description>René Canales – Sociologist and M.A. in Sociology</description>
+<description>Tomás Urzúa – Social Sciences Master&#39;s Student</description>
 <image>
-<url>https://renejcanales.github.io/files/rene_canales_profile.JPG</url>
-<title>René Canales</title>
+<url>https://renejcanales.github.io/files/tomas.jpg</url>
+<title>Tomás Urzúa&#39;s Website</title>
 <link>https://renejcanales.github.io/posts.html</link>
 </image>
-<generator>quarto-1.8.23</generator>
-<lastBuildDate>Mon, 11 May 2026 16:35:17 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 02 Jul 2026 15:33:05 GMT</lastBuildDate>
 </channel>
 </rss>
