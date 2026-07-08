@@ -1,3 +1,3 @@
 # Personal Website
  
-Link: [https://renejcanales.github.io/renecanales-website/](https://renejcanales.github.io)
+Link: [Here](https://tomasurzuam.github.io/tomasurzua.github.io/)
