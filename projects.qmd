@@ -18,7 +18,7 @@ toc: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-[![](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/featured.png)](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/)
+[![](files/images/jusmer-logo-vert.png)](https://jus-mer.com/)
 
 :::
 
@@ -26,6 +26,9 @@ toc: false
 
 I serve as a research assistant for the Fondecyt project [“Market Justice and Deservingness of Social Welfare”](https://jus-mer.com/) which studies attitudes toward the market allocation of social welfare benefits in Chile and their links to deservingness and merit criteria. The project combines comparative, longitudinal, survey, experimental, and political discourse analyses to examine how preferences for market justice in areas such as pensions, health, and education are shaped by institutional contexts and cultural beliefs.
 
+<a href="https://github.com/jus-mer" class="btn btn-outline-dark" target="_blank">
+  <i class="bi bi-github"></i> GitHub organization
+</a>
 
 :::
 
@@ -46,11 +49,15 @@ I serve as a research assistant for the Fondecyt project [“Market Justice and 
 
 I worked as a research assistant of the [Social Cohesion Observatory of the Center for the Study of Conflict and Social Cohesion](https://ocs-coes.com/), where I oversaw the Observatory’s research team and coordinated seminars and public engagement activities aimed at fostering academic and public exchange. I also contributed to research on social cohesion through literature review, data analysis using Chilean and Latin American sources, the development of interactive visualizations for the Observatory’s website, and the preparation of methodological documents, research notes, and blog posts.
 
-:::
+<a href="https://github.com/ocscoes" class="btn btn-outline-dark" target="_blank">
+  <i class="bi bi-github"></i> GitHub organization
+</a>
 
 :::
 
-## Meritocracy in schools: moral foundations of the education market and its implications for citizenship education in Chile
+:::
+
+## Meritocracy in schools: moral foundations of the educational market and its implications for citizenship education in Chile
 
 ::: {.grid}
 
@@ -63,7 +70,9 @@ I worked as a research assistant of the [Social Cohesion Observatory of the Cent
 
 I worked on the project [“Meritocracy in Schools: Moral Foundations of the Education Market and Its Implications for Citizenship Education in Chile,”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-edumer/) contributing to data collection, data processing, and statistical analysis across different stages of the research. I also prepared analytical materials for academic publications and conference presentations, supported the drafting of papers, and coordinated research tasks related to meritocracy, education, and citizenship attitudes in Chile.
 
-
+<a href="https://github.com/educacion-meritocracia" class="btn btn-outline-dark" target="_blank">
+  <i class="bi bi-github"></i> GitHub organization
+</a>
 
 :::
 

@@ -10,20 +10,22 @@ css: /custom.css
 
 ## 2026
 
-[Market justice, meritocracy & deservingness](https://jus-mer.github.io/stratification-market-justice/presentations/FU_april_2026/FU_april_2026.html#/market-justice-meritocracy-deservingness). Juan Carlos Castillo, Andreas Laffert & Tomás Urzúa.  Freie Universität Berlin, Germany - April 2026. 
+- [Justification trajectories for pension inequality in Chile (2016-2023): The role of social class and beliefs in meritocracy](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/presentations/justification-trajectories-pension-inequality-chile-2016-2023.html#/). Juan Carlos Castillo, Andreas Laffert, René Canales & Tomás Urzúa.  Freie Universität Berlin, Germany - April 2026.
 
-[Two decades of changes in social cohesion in Latin America (2004-2023)](https://ocscoes.github.io/paper-proyecto-cierre/presentations/bremen-meeting/bremen-meeting.html#/section). Juan Carlos Castillo & Tomás Urzúa.  Bremen International Graduate School of Social Sciences (BIGSSS), Germany - April 2026.
+- [Market justice, meritocracy & deservingness](https://jus-mer.github.io/stratification-market-justice/presentations/FU_april_2026/FU_april_2026.html#/market-justice-meritocracy-deservingness). Juan Carlos Castillo, Andreas Laffert & Tomás Urzúa.  Freie Universität Berlin, Germany - April 2026. 
 
-[Midiendo la Autoeficacia Digital en Evaluaciones Internacionales a Gran Escala: Una escala comparativa bidimensional entre ICILS y PISA](https://milenio-nudos.github.io/picils_dse/output/conferences/acmme-2026/docs.html#/). Tomás Urzúa. Universidad La Serena, Chile - March 2026.
+- [Two decades of changes in social cohesion in Latin America (2004-2023)](https://ocscoes.github.io/paper-proyecto-cierre/presentations/bremen-meeting/bremen-meeting.html#/section). Juan Carlos Castillo & Tomás Urzúa.  Bremen International Graduate School of Social Sciences (BIGSSS), Germany - April 2026.
 
-[Herramientas computacionales para la investigación social reproducible](https://data-soc.github.io/workshop-reproducibilidad/workshop/workshop2026.html#/section). Juan Carlos Castillo & Tomás Urzúa. Universidad de Concepción, Chile - March 2026.
+- [Midiendo la Autoeficacia Digital en Evaluaciones Internacionales a Gran Escala: Una escala comparativa bidimensional entre ICILS y PISA](https://milenio-nudos.github.io/picils_dse/output/conferences/acmme-2026/docs.html#/). Tomás Urzúa. Universidad La Serena, Chile - March 2026.
+
+- [Herramientas computacionales para la investigación social reproducible](https://data-soc.github.io/workshop-reproducibilidad/workshop/workshop2026.html#/section). Juan Carlos Castillo & Tomás Urzúa. Universidad de Concepción, Chile - March 2026.
 
 ## 2025
 
-[Two decades of changes in social cohesion in Latin America (2004-2023)](https://ocscoes.github.io/paper-proyecto-cierre/presentations/conferencia-coes/pres-conferencia-coes.html#/section). Juan Carlos Castillo, Gabriel Cortés & Tomás Urzúa. XII Conferencia Internacional COES, Chile - October 2025.
+- [Dos décadas de cambios en la cohesión social en América Latina (2004-2023)](https://ocscoes.github.io/paper-proyecto-cierre/presentations/conferencia-coes/pres-conferencia-coes.html#/section). Juan Carlos Castillo, Gabriel Cortés & Tomás Urzúa. XII Conferencia Internacional COES, Chile - October 2025.
 
 
-[Diferencias de género en la autoeficacia digital en la escuela en 52 países](https://milenio-nudos.github.io/pisa_study_cl/output/presentations/demosal_2025/docs.html#/diferencias-de-g%C3%A9nero-en-la-autoeficacia-digital-en-la-escuela-en-52-pa%C3%ADses). Juan Carlos Castillo, Nicolás Tobar y Tomás Urzúa. VII Seminario Internacional de Desigualdad y Movilidad Social en América Latina, Brazil - March 2025.
+- [Diferencias de género en la autoeficacia digital en la escuela en 52 países](https://milenio-nudos.github.io/pisa_study_cl/output/presentations/demosal_2025/docs.html#/diferencias-de-g%C3%A9nero-en-la-autoeficacia-digital-en-la-escuela-en-52-pa%C3%ADses). Juan Carlos Castillo, Nicolás Tobar y Tomás Urzúa. VII Seminario Internacional de Desigualdad y Movilidad Social en América Latina, Brazil - March 2025.
 
 
 :::::

@@ -23,15 +23,12 @@ website:
     #        href: posts.qmd#category=news
     #      - text: Events
     #        href: posts.qmd#category=event   
-     - text: Research
-       menu:
-          - text: Projects
-            href: projects.qmd
-          - text: Publications
-            href: publications.qmd
-          - text: Presentations
-            href: presentations.qmd  
-            target: _blank 
+     - text: Projects
+       href: projects.qmd
+     - text: Publications
+       href: publications.qmd
+     - text: Presentations
+       href: presentations.qmd  
      - text: Teaching
        href: teaching.qmd
 

@@ -20,6 +20,8 @@ title-block-banner: false
 
 I served as co-instructor for the undergraduate and master's course in Correlational Statistics in the Sociology program at the University of Chile, together with Juan Carlos Castillo. My role included preparing lectures and teaching materials, leading lectures and practical sessions, designing and grading evaluations, and coordinating teaching activities and student support during the course.
 
+[Course website](https://cienciasocialabierta.netlify.app/)
+
 :::
 
 :::
@@ -37,6 +39,8 @@ I served as co-instructor for the undergraduate and master's course in Correlati
 
 I served as assistant for the undergraduate course Descriptive Statistics in the Sociology program at the University of Chile, together with Juan Carlos Castillo. My role included assisting students during hands-on sessions with R and RStudio, reviewing evaluations, and supporting the coordination of teaching activities during the course.
 
+[Course website](https://correlacional.netlify.app/)
+
 :::
 
 :::
@@ -53,6 +57,8 @@ I served as assistant for the undergraduate course Descriptive Statistics in the
 ::: {.g-col-12 .g-col-md-10}
 
 I served as assistant for the undergraduate course Descriptive Statistics in the Sociology program at the University of Chile, together with Rodrigo Asún. My role included assisting students during hands-on sessions with R and RStudio, reviewing evaluations, and supporting the coordination of teaching activities during the course.
+
+[Course website](https://version2025--estadistica-descriptiva-uch.netlify.app/)
 
 :::
 

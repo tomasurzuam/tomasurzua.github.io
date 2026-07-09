@@ -29,7 +29,7 @@ about:
 
 ::: {#hero-heading .justify}
 
-Hello, I’m Tomás Urzúa. I am a sociologist from University of Chile and master student from the same institution.
+Hello, I’m Tomás Urzúa. I am a sociologist from University of Chile and master student at the same institution.
 
 My interests fall primarily into three areas of research: people’s redistributive preferences, the cultural effects of the privatization of services, and inequalities in education. I research these topics using a quantitative and open-science approach, employing tools such as R, Git/GitHub, and Visual Studio Code.
 
